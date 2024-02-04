@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Portfolio',
+      title: 'Rutuja Birdar',
       theme: ThemeData(
         primarySwatch: Colors.purple,
         canvasColor: Colors.purple.shade50,
